@@ -55,7 +55,7 @@ const About = () => {
               className="glass-morphism p-4 rounded-lg flex flex-col items-center text-center col-span-2"
             >
               <Coffee className="w-8 h-8 mb-2" />
-              <h3 className="font-semibold">Tech Enthusiast</h3>
+              <h3 className="font-semibold">Tech</h3>
               <p className="text-sm">Always exploring new technologies</p>
             </motion.div>
           </div>
